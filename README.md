@@ -1,4 +1,12 @@
-## Hi there 👋
+## Olá! Me chamo Anna Flavia Dias 👋
+
+Sejá muito Bem Vindo ao meu perfil do GITHUB! Aqui encontrar projetos que refletem meu aprendizado, habilidades e paixões!
+
+SOBRE MIM:
+
+
+
+
 
 <!--
 **annadias3003/annadias3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
