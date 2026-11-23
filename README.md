@@ -1,8 +1,8 @@
-## Olá! Me chamo Anna Flavia Dias 👋
+# Olá! Me chamo Anna Flavia Dias 👋
 
 Sejá muito Bem Vindo ao meu perfil do GITHUB! Aqui encontrar projetos que refletem meu aprendizado, habilidades e paixões!
 
-# 👩🏽​ SOBRE MIM:
+## 👩🏽​ SOBRE MIM:
 
 - 📚​ Estudo Técnico em Infomática no Instituto Federal Catarinense - Campus Fraiburgo;
 - 📱 Sou Criadora de conteúdo UGC e Influêncer;
