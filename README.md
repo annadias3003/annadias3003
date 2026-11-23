@@ -2,13 +2,14 @@
 
 Sejá muito Bem Vindo ao meu perfil do GITHUB! Aqui encontrar projetos que refletem meu aprendizado, habilidades e paixões!
 
-SOBRE MIM:
+# 👩🏽​ SOBRE MIM:
 
-- 📚​ Estudo no Instituto Federal Catarinense - Campus Fraiburgo;
+- 📚​ Estudo Técnico em Infomática no Instituto Federal Catarinense - Campus Fraiburgo;
 - 📱 Sou Criadora de conteúdo UGC e Influêncer;
 - 📸​ Estou começando na fotografia, para eventos, fotos comuns e profissionais;
 - 💄​ Também começando na área da maquiagem, social, eventos, dia dia, artistíca;
 - 👶​ Sou ótima com crianças e nas horas vagas babá;
+- 🎨 No tempo livre faço pinturas em um sketchbook​ com lápis de cor e/ou tinta;
 
 
 
